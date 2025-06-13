@@ -1,4 +1,3 @@
-// ESM module
 import {
   McpServer,
   ResourceTemplate,
